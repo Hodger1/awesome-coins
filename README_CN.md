@@ -7,8 +7,6 @@
 
 ## 说在最开始
 
-如果你是加密货币领域的新新人类，”货币”这个词可能会让你感到很困惑。所以我先给你们讲一下我目前理解的 -
-
 现在已经存在很不同种类的[货币](http://coinbin.org/coins)。很多人都喜欢像交易股票和宝可梦卡片那样人们喜欢在这个平台上进行[货币交易](https://www.cryptopia.co.nz/Register?referrer=kennethreitz)。
 也有人喜欢去用自己的个人电脑或着专业的矿机来[挖矿](https://www.nicehash.com/?refby=386829)。
 
